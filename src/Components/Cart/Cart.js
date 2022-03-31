@@ -1,7 +1,6 @@
 import React from 'react';
 import './Cart.css';
 
-
 const Cart = () => {
     return (
         <div>
@@ -10,4 +9,4 @@ const Cart = () => {
     );
 };
 
-export default Cart;<h1>Hello from cart</h1>
+export default Cart;
